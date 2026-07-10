@@ -1,4 +1,4 @@
-# Hi, I'm Ahmad 👋
+# Hi, I'm Hussain Ahmed 👋
 
 Senior Flutter & React Native developer with 8 years of experience 
 building production mobile apps for iOS and Android — with AI 
@@ -59,5 +59,5 @@ Beauty & E-Commerce · Social & Entertainment · Marketplace & C2C
 
 ## Lets Connect
 
-- Upwork: https://www.upwork.com/freelancers/xbot
-- Email: hassanxbot1c@gmail.com
+- Upwork: (https://www.upwork.com/freelancers/~01364d92ed7bc15724)
+- Email: hussainxbot1c@gmail.com
