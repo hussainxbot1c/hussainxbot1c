@@ -1,7 +1,7 @@
 # Hi, I'm Hussain Ahmed 👋
 
 Senior Flutter & React Native developer with 8 years of experience 
-building production mobile apps for iOS and Android — with AI 
+building production mobile apps for iOS and Android with AI 
 integration built in from day one.
 
 ## What I Build
