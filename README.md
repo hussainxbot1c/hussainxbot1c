@@ -16,9 +16,9 @@ integration built in from day one.
 
 | App | Category | Stack | Status |
 |-----|----------|-------|--------|
-| NourishDoc | Health & Wellness | Flutter, Django, AWS, Firebase | Live |
-| MixerCloud | Professional Networking | Flutter, FastAPI, WebSockets | Live — 15K+ users |
-| Beautora | AI E-Commerce | Flutter, FastAPI, OpenAI, RAG | Live |
+| NourishDoc | Health & Wellness | Flutter, Django, AWS, Firebase | Live 15k+ users |
+| MixerCloud | Professional Networking | Flutter, FastAPI, WebSockets | Live 25K+ users |
+| Beautora | AI E-Commerce | Flutter, FastAPI, OpenAI, RAG | Live 12k+ users |
 | MindPlayer | Social Audio | Flutter, Unity 3D, Django | In Development |
 | OsteoViewer | Medical Imaging | Flutter, FastAPI, AWS S3, DICOM | In Development |
 | LLYA Marketplace | C2C Marketplace | Flutter, Node.js, Computer Vision | Complete |
