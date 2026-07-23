@@ -16,14 +16,10 @@ integration built in from day one.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hussainxbot1c&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainxbot1c&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainxbot&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainxbot1c&theme=tokyonight&hide_border=true" width="70%"/>
 </div>
 
 <div align="center">
