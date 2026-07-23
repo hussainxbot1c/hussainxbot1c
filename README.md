@@ -12,9 +12,23 @@ integration built in from day one.
 - Full stack: Django, FastAPI, Node.js, AWS, Supabase
 - App Store and Google Play deployment end to end
 
-## Contribution Activity
+## GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hussainxbot1c&theme=tokyo-night&hide_border=true"/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hussainxbot1c&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainxbot1c&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainxbot&theme=tokyonight&hide_border=true" width="70%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=husaainxbot1c&theme=tokyo-night&hide_border=true" width="90%"/>
+</div>
 
 ## Apps I Have Shipped
 
