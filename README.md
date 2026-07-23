@@ -27,7 +27,7 @@ integration built in from day one.
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=husaainxbot1c&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hussainxbot1c&theme=tokyo-night&hide_border=true" width="90%"/>
 </div>
 
 ## Apps I Have Shipped
