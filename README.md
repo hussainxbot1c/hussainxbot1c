@@ -12,6 +12,10 @@ integration built in from day one.
 - Full stack: Django, FastAPI, Node.js, AWS, Supabase
 - App Store and Google Play deployment end to end
 
+## Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanzubair1c&theme=tokyo-night&hide_border=true"/>
+
 ## Apps I Have Shipped
 
 | App | Category | Stack | Status |
